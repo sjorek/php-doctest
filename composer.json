@@ -1,0 +1,14 @@
+{
+    "name": "sjorek/phpunit-doctests",
+    "description": "Write unit tests directly into function-, class- or method-comments using interactive shell-like 'php >' annotations.",
+    "require": {
+        "phpunit/phpunit": "3.8.x-dev"
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Stephan Jorek",
+            "email": "stephan.jorek@gmail.com"
+        }
+    ]
+}
